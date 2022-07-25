@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mcu_hw.h": "c",
+			"port_private.h": "c",
+			"intctrl_config.h": "c"
+		}
+	}
+}
